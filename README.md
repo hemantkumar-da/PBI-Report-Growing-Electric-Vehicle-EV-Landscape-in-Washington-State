@@ -1,5 +1,7 @@
 # PBI-Report-Growing-Electric-Vehicle-EV-Landscape-in-Washington-State
 This was to deep dive into electric vehicle adoption trends, and it’s incredible to see how rapidly the EV ecosystem is evolving
+
+
 ![image](https://github.com/user-attachments/assets/f886a343-1c88-4566-b1a1-d25278cd061f)
 
 
